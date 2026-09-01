@@ -36,8 +36,8 @@ Ready to start the session? Follow these steps to get the project up and running
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/Mental-D0C.git](https://github.com/your-username/Mental-D0C.git)
-    cd Mental-D0C
+    git clone https://github.com/VicDc/Mental-D0C_AI-Therapist.git
+    cd Mental-D0C_AI-Therapist
     ```
 
 2.  **Set up the Environment:**
