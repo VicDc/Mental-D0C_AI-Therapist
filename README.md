@@ -1,7 +1,6 @@
-# AI-Therapist-Simulator
 # Mental D0C 🧠: An AI Simulator for Psychotherapy Research
-https://huggingface.co/uruz7/Mental_Healthcare_LLM/tree/main
-[![Hugging Face Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue)]([https://huggingface.co/your-username/your-model-name](https://huggingface.co/uruz7/Mental_Healthcare_LLM))
+
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/uruz7/Mental_Healthcare_LLM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to **Mental D0C**, a project that's less about replacing your therapist and more about exploring what makes them tick! We've created a Large Language Model (LLM) that simulates conversations between a psychotherapist and a patient. Think of it as a digital sandbox for research, prototyping, and maybe figuring out why we all have commitment issues with our gym memberships.
